@@ -1,5 +1,6 @@
 import { Card } from "@repo/ui/card";
 
+// command to test github ci
 export const BalanceCard = ({amount, locked}: {
     amount: number;
     locked: number;
